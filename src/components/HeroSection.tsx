@@ -29,7 +29,7 @@ const HeroSection = () => {
           <a href="#contact" className="px-6 py-3 rounded-md bg-primary text-primary-foreground font-semibold hover:opacity-90 transition-opacity">
             Get In Touch
           </a>
-          <a href="/madhumathi_resume.docx" download className="px-6 py-3 rounded-md border border-border text-foreground font-semibold hover:border-primary hover:text-primary transition-all flex items-center gap-2">
+          <a href="/madhumathi final resume1.docx" download className="px-6 py-3 rounded-md border border-border text-foreground font-semibold hover:border-primary hover:text-primary transition-all flex items-center gap-2">
             <Download size={18} /> Resume
           </a>
         </div>
