@@ -9,7 +9,7 @@ const HeroSection = () => {
           Madhumathi <span className="text-gradient">M</span>
         </h1>
         <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-8 leading-relaxed">
-          Computer Science Engineering Student · Passionate about building solutions with code
+          Computer Science Engineering Aspirant · Passionate about building solutions with code
         </p>
         <div className="flex items-center justify-center gap-4 mb-10">
           <a href="`https://www.linkedin.com/in/madhu-mathi-a3481b29a`" target="_blank" rel="noopener noreferrer"
